@@ -8,7 +8,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/S-Srinivasan-06/GFGKIIT-CODING_SAMURAI-HYPERTHON
+    git clone https://github.com/S-Srinivasan-06/Ai-based-coding-teacher
     ```
 2. Navigate to the project directory:
     ```bash
@@ -27,7 +27,8 @@ From [Link](https://aistudio.google.com/)
 To run the project, execute the following command:
 ```bash
 python main.py
-```
+```
+
 
 
 ## Contributing
@@ -38,3 +39,4 @@ Contributions are welcome! Please open an issue or submit a pull request with yo
 
 ## License
 This project is licensed under the MIT License.
+
